@@ -1,4 +1,4 @@
-# PA2-clarifying_instructions
+# PA2-clarifying_instructions: lexical scoping
 ## Assignment 2: Step by step to understand the instructions
 
 
